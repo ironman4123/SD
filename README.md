@@ -1,2 +1,2 @@
-# scholership
+# College Page
 Code 
